@@ -13,9 +13,9 @@ const UploadPage: FC = () => {
     return (
         <MainTemplate>
             <LinkrunUploadForm/>
-            <UniwinUploadForm/>
-            <SaulingUploadForm/>
-            <MeikaiUploadForm/>
+            {/* <UniwinUploadForm/> */}
+            {/* <SaulingUploadForm/> */}
+            {/* <MeikaiUploadForm/> */}
         </MainTemplate>
     );
 };
